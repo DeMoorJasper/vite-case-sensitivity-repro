@@ -1,7 +1,7 @@
 {
   "name": "vite-case-sensitivity-repo",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite --open"
   },
   "dependencies": {
     "@types/react": "^18.0.18",
